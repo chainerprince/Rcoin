@@ -1,2 +1,0 @@
-[{"previous_hash": "", "index": 0, "transactions": [], "nonce": 200}, {"previous_hash": "f5431ff16862ef07fefe1ce829acee115efb872b11b7a64938e6a5bfa3845667", "index": 1, "transactions": [{"sender": "SYSTEM", "recipient": "Prince", "amount": 10}], "nonce": 1282}]
-[{"sender": "Prince", "recipient": "tom", "amount": 2.0}]
